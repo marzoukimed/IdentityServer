@@ -1,0 +1,85 @@
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Identity Server.exe
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Identity Server.deps.json
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Identity Server.runtimeconfig.json
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Identity Server.runtimeconfig.dev.json
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Identity Server.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Identity Server.pdb
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Identity Server.Views.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Identity Server.Views.pdb
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.csproj.AssemblyReference.cache
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.AssemblyInfoInputs.cache
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.AssemblyInfo.cs
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.csproj.CoreCompileInputs.cache
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.RazorAssemblyInfo.cache
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.RazorAssemblyInfo.cs
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\staticwebassets\Identity Server.StaticWebAssets.Manifest.cache
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\staticwebassets\Identity Server.StaticWebAssets.xml
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Identity Server.styles.css
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.TagHelpers.input.cache
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.TagHelpers.output.cache
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.RazorCoreGenerate.cache
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.RazorTargetAssemblyInfo.cache
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.RazorTargetAssemblyInfo.cs
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.Views.pdb
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.csproj.CopyComplete
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.dll
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.pdb
+C:\Users\Med\source\repos\Identity Server\Identity Server\obj\Debug\netcoreapp3.1\Identity Server.genruntimeconfig.cache
